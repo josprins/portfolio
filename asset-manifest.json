@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-2020/static/css/main.d78bac03.chunk.css",
+    "main.js": "/portfolio-website-2020/static/js/main.c814dc27.chunk.js",
+    "main.js.map": "/portfolio-website-2020/static/js/main.c814dc27.chunk.js.map",
+    "runtime-main.js": "/portfolio-website-2020/static/js/runtime-main.a954abfa.js",
+    "runtime-main.js.map": "/portfolio-website-2020/static/js/runtime-main.a954abfa.js.map",
+    "static/css/2.3f43beff.chunk.css": "/portfolio-website-2020/static/css/2.3f43beff.chunk.css",
+    "static/js/2.7193405b.chunk.js": "/portfolio-website-2020/static/js/2.7193405b.chunk.js",
+    "static/js/2.7193405b.chunk.js.map": "/portfolio-website-2020/static/js/2.7193405b.chunk.js.map",
+    "index.html": "/portfolio-website-2020/index.html",
+    "precache-manifest.4a66d082e3dec8b14ad6bfbbdd4e9e5a.js": "/portfolio-website-2020/precache-manifest.4a66d082e3dec8b14ad6bfbbdd4e9e5a.js",
+    "service-worker.js": "/portfolio-website-2020/service-worker.js",
+    "static/css/2.3f43beff.chunk.css.map": "/portfolio-website-2020/static/css/2.3f43beff.chunk.css.map",
+    "static/css/main.d78bac03.chunk.css.map": "/portfolio-website-2020/static/css/main.d78bac03.chunk.css.map",
+    "static/js/2.7193405b.chunk.js.LICENSE": "/portfolio-website-2020/static/js/2.7193405b.chunk.js.LICENSE",
+    "static/media/slick-theme.css": "/portfolio-website-2020/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a954abfa.js",
+    "static/css/2.3f43beff.chunk.css",
+    "static/js/2.7193405b.chunk.js",
+    "static/css/main.d78bac03.chunk.css",
+    "static/js/main.c814dc27.chunk.js"
+  ]
+}
